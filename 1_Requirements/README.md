@@ -1,5 +1,5 @@
-REQUIREMENTS
-Hardware Requirements:-
+# REQUIREMENTS
+## Hardware Requirements:-
 a) Ram 512MB or higher.
 
 b) Minimum 10MB hard disk space.
@@ -8,12 +8,12 @@ c) Intel/AMD powered system.
 
 d) Processor speed 1.2 GHZ
 
-Software Requirements: -
+## Software Requirements: -
 a) Windows 7 or higher versions, Linux- Ubuntu v18.04.4 or higher version.
 
 b) Visual Studio/Code::Blocks software/Dev-C++.
 
-Functional Requirements: -
+## Functional Requirements: -
 
 In this project we used the concept of data structures, functions and Multi file programming.
 
